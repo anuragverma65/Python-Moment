@@ -1,5 +1,5 @@
-a = input("enter first number\n")
-b= input("choose second number\n")
+a = input("Enter first number\n")
+b= input("Enter second number\n")
 limit=[]
 limit.append(a)
 limit.append(b)
