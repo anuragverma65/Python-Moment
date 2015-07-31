@@ -4,3 +4,4 @@ results = map(str, num)
 for i in results:
 	print i
 
+
