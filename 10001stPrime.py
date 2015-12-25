@@ -18,5 +18,5 @@ def nth_prime(n):
     return prime
 prime = nth_prime(10001)
  
-print "Largest prime %is "+str(prime)
+print "Largest prime is "+str(prime)
 
